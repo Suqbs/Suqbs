@@ -25,7 +25,7 @@
   <h1>
     hey there
     <img
-      src="https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term="
+      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="30px"
     />
   </h1>
