@@ -6,7 +6,7 @@
   <div id="badges">
     <a href="your-linkedin-URL">
       <img
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGplMWg3em4xOHJrdzh3d2t2dGUwaGRjenVmMnVqdGpzaTc0eGs0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
         alt="LinkedIn Badge"
       />
     </a>
@@ -29,8 +29,4 @@
       width="30px"
     />
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
