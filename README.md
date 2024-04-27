@@ -31,7 +31,7 @@
 
 I am a Software Developer Student in his 2th year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m working as a Software Engineer Student and learning frontend and backend for building web
+- :telescope: I’m studying as a Software Engineer Student and learning frontend and backend for building web
 applications.
 
 - :mailbox:How to reach me: [![Linkedin
