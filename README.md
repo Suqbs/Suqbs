@@ -50,3 +50,7 @@ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lin
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
