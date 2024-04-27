@@ -55,4 +55,4 @@ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lin
 
 ### :fire: My Stats :
 
-[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suqbs)](https://github.com/anuraghazra/github-readme-stats)
+[![Furkan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suqbs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
