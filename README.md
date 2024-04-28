@@ -49,10 +49,15 @@ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lin
         width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"
+        alt="MySQL" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP"
+        alt="CSHARP" width="40" height="40" />&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
 
-[![Furkan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suqbs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Furkan's Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suqbs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
