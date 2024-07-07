@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer Student in his 2th year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+I am a Software Developer Student in his 3th year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
     width="30"> from Turkey.
 
 - :telescope: I’m studying as a Software Engineer Student and learning frontend and backend for building web
