@@ -21,8 +21,8 @@
     </h1>
 </div>
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmttMGtkeWZjcndiY3c0M3I0czJtbTFmb2s5aTQ4OXBpanp0NTBnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif"
-        width="400" height="300" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFkdGZpY2V2dnQxaXY4MjR3dGtxOGYydGw3cHdlOW1xbHR5MnlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S13KR45aV7l5kJuenU/giphy.gif"
+        alt="Clippy says hello" width="400" height="300" />
 </div>
 
 ---
