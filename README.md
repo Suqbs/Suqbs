@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU3am93bzhkaW9zMTU2NWdkcDQzNm9ldnY4cTVrZ2N4OHh0cjB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jR8yFMATIGVAY9mTZu/giphy.gif"
-        alt= "Clippy" width="180" />
+        alt= "Clippy" width="200" />
     <div id="badges">
         <a href="https://www.linkedin.com/in/furkankaradenizz/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
