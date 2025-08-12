@@ -29,11 +29,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer Student in his 4th year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+Fourth-year Information Systems and Technology student with a focus on software development, web technol
+ogies and game development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
     width="30"> from Turkey.
-
-- :telescope: I’m studying as a Software Engineer Student and learning frontend and backend for building web
-applications.
 
 - :mailbox:How to reach me: [![Linkedin
 Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkankaradenizz/)
