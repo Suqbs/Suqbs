@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03MW56ZjhjaTZkaW9saWd2aHhzaGNlemVscnJvN3lpcXBmZGo1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13V60VgE2ED7oc/giphy.gif"
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU3am93bzhkaW9zMTU2NWdkcDQzNm9ldnY4cTVrZ2N4OHh0cjB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jR8yFMATIGVAY9mTZu/giphy.gif"
         alt= "Clippy" width="180" />
     <div id="badges">
         <a href="https://www.linkedin.com/in/furkankaradenizz/">
