@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-Fourth-year Information Systems and Technology student with a focus on software development, web technologies and game development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+Fourth-year Information Systems and Technology student with a focus on software development and game development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
     width="30"> from Turkey.
 
 - :mailbox:How to reach me: [![Linkedin
