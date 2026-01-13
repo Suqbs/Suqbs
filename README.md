@@ -53,10 +53,3 @@ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="GODOT"
         alt="GODOT" width="40" height="40" />&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-[![Furkan's Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suqbs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
