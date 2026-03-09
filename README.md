@@ -32,9 +32,6 @@
 Fourth-year Information Systems and Technology student with a focus on software development and game development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
     width="30"> from Turkey.
 
-- :mailbox:How to reach me: [![Linkedin
-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkankaradenizz/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
